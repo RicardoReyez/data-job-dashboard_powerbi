@@ -1,4 +1,4 @@
-# Dashboard de [tema] en Power BI
+# Dashboard de Data Jobs en Power BI
 
 Este dashboard analiza **la oferta laboral para carreras relacionadas con datos** con el objetivo de responder: *¿En que países hay mayor oferta y mejores salarios?*
 
