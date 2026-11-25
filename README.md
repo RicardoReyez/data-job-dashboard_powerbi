@@ -22,7 +22,7 @@ Desarrollé este proyecto como parte de mi formación en Ingeniería en Datos e 
 1. Importé los datos a Power BI.
 2. Organicé la información para trabajar con ella.
 3. Creé las visualizaciones y los indicadores principales.
-4. Diseñé el tablero para que se pueda leer de un vistazo.
+4. Diseñé el tablero para que se pueda comprender mejor.
 
 ## Lo que aprendí
 
